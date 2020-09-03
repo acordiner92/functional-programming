@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/acordiner92/functional-programming/issues"
   },
-  "homepage": "https://github.com/acordiner92/functional-programming#readme"
+  "homepage": "https://github.com/acordiner92/functional-programming#readme",
+  "dependencies": {
+    "fp-ts": "^2.8.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
+    "eslint": "^7.8.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1",
+    "ts-node": "^9.0.0",
+    "ts-node-dev": "^1.0.0-pre.62",
+    "typescript": "^4.0.2"
+  }
 }
